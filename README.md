@@ -1,11 +1,7 @@
 ## Hello, 👋.
 This is merely a test for my first GitHub account using my Delima, alas, school account.
-<!--
-**SITISYAFIQAHBALQIS/SITISYAFIQAHBALQIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning SK, "Sains Komputer", alas, Science Computer. Current ambition is being able to properly understanding the basic concept of computer coding, scripting, etc. For example, learning how to use Java or Phyton.
+- 🌱 I’m currently learning SK, "Sains Komputer", alas, Science Computer. Current ambition is being able to properly understanding the basic concept of computer coding, scripting, etc.
+- For example, learning how to use Java or Phyton.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a multifandom. My favourites are Creepypasta AND Slendermansion AU, as well as SCP ^ ^
--->
