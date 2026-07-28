@@ -29,4 +29,4 @@ Status: High on caffeine
 
 > "I have no idea what they're doing, but somehow it compiles."
 >
-> — Researcher █████
+> — Author & █████
