@@ -3,6 +3,8 @@
   <em>Demo of the application</em>
 </p>
 
+---
+
 # FOUNDATION PERSONNEL DOSSIER
 
 > Secure. Contain. Protect.
