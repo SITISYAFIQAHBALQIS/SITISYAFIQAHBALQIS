@@ -5,17 +5,19 @@
 
 ---
 
-# FOUNDATION PERSONNEL DOSSIER
+## FOUNDATION PERSONNEL DOSSIER
 
 > Secure. Contain. Protect.
 
-## DESIGNATION
+### DESIGNATION
 
 System ID: SYS-Author
+
 Object Class: [DATA EXPUNGED]
+
 Status: High on caffeine
 
-## Current Objectives
+### Current Objectives
 
 - [ ] Finish existing projects
 - [ ] Touch grass
@@ -23,7 +25,7 @@ Status: High on caffeine
 - [ ] Document code
 - [x] Cause minor reality distortions
 
-## Personnel Notes
+### Personnel Notes
 
 > "I have no idea what they're doing, but somehow it compiles."
 >
